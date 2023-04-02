@@ -1,1 +1,6 @@
 # SQL-Project
+
+The goal of the project is to help this e-commerce company based in the US analyze its sales performance to generate insights and create strategies to increase its revenue. First, we can look into the seasonality of the sales throughout the year based on regions and different products sold to help plan and allocate inventories accordingly. With this information, the company could learn what the most popular products are and focus on advertising them.
+Second, we can analyze customer profiles. For example, what proportion of the customers are repeat customers, and from there, the company can tailor its strategy accordingly and decide whether to focus on attracting new customers or to establish a royalty program to reinforce its repeat customers.
+Moreover, we can analyze which sales channel generates the most revenue and the company will be able to focus on and invest in those channels for advertising purposes. Same when it comes to sales teams, from the data, we will be able to analyze which sales team generates the most and least revenue. With this information, the company will be able to identify areas to improve, better train the sales teams, and optimize sales performance.
+
